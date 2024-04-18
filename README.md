@@ -1,4 +1,4 @@
-![](https://github.com/manish91023/manish91023/blob/main/banner%20page.png)
+![](https://github.com/manish91023/manish91023/blob/main/profile%20banner%20new.png)
 
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
